@@ -2,7 +2,7 @@ import React from 'react';
 
 const Intro = () => {
   return (
-    <div className='Intro'>
+    <div className='intro'>
         <section className="nes-container is-dark">
             <section className="message-list">
                 <section className="message -left">
